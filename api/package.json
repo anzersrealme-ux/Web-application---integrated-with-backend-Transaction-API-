@@ -1,0 +1,9 @@
+{
+  "name": "backend-api-functions",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "stripe": "^20.3.0"
+  }
+}
