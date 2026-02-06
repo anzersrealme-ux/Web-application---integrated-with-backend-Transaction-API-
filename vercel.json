@@ -1,7 +1,4 @@
 {
-  "env": [
-    "STRIPE_SECRET_KEY"
-  ],
   "functions": {
     "api/**/*.js": {
       "memory": 512,
